@@ -1,0 +1,11 @@
+#include <SFML/graphics>
+#include <iostream>
+#include <threads>
+/*The main file, the game will start here.  Above this are the necessary libraries, you'll have to read a tutorial about linking them.  Compiling in MS VS 2013.*/
+int main()
+{
+	
+
+
+
+}
